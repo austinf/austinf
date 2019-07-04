@@ -1,6 +1,6 @@
 # Austin Foxley
 
-[austinf@gmail.com](mailto:austinf@gmail.com) / 425-205-9951 
+[austinf@gmail.com](mailto:austinf@gmail.com)
 
 Senior Software Engineer / Seattle, WA or Remote
 
